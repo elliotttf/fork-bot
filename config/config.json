@@ -1,0 +1,7 @@
+{
+  "path": "/home/elliotttf/fork-bot-test/test-fork",
+  "upstream remote": "upstream",
+  "origin remote": "origin",
+  "branch prefix": "test-",
+  "delay": "10000"
+}
