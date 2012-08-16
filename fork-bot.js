@@ -9,7 +9,6 @@ app.use(flatiron.plugins.cli, {
   usage: 'watch'
 });
 app.use(require('./lib/bot'));
-app.use(require('./lib/git'));
 
 app.start();
 
