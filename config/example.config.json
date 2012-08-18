@@ -1,2 +1,24 @@
 {
+  "github": {
+    "user": "BotUser",
+    "pass": "BotPass"
+  },
+  "api endpoint": "https://api.github.com",
+  "upstream": {
+    "user": "UpstreamUser",
+    "repo": "upstream-repo"
+  },
+  "origin": {
+    "user": "BotUser",
+    "repo": "forked-repo",
+    "branch": "forked-branch"
+  },
+  "tag pattern": ".+RegExp(ression)?",
+  "branch prefix": "forked-branch-prefix-",
+  "delay": "10000",
+  "redis": {
+    "port": "6379",
+    "host": "localhost",
+    "options": {}
+  }
 }
