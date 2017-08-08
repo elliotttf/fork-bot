@@ -1,6 +1,8 @@
 Fork Bot
 ========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/elliotttf/fork-bot.svg)](https://greenkeeper.io/)
+
 Fork bot watches an upstream fork for new tags and opens pull requests
 with those tags against your fork!
 
